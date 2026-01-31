@@ -8,8 +8,10 @@ Admin / Pemilik: login untuk mengelola produk dan melihat laporan.
 **Fitur**
 Login pengguna hanya untuk Admin / Pemilik
 Role pengguna:
-- Kasir: mencatat transaksi pembelian (langsung masuk)
-- Admin / Pemilik: menambah/ubah produk, melihat laporan penjualan
+**- Kasir:**
+mencatat transaksi pembelian (langsung masuk)
+**- Admin / Pemilik:**
+menambah/ubah produk, melihat laporan penjualan
 Penyimpanan data transaksi dan produk menggunakan Firebase Firestore
 Antarmuka sederhana dan mudah digunakan
 
