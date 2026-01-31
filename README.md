@@ -32,6 +32,7 @@ Antarmuka sederhana dan mudah digunakan
 "build/app/outputs/flutter-apk/app-release.apk"
 
 **Cara Penggunaan**
+
 **👤 Kasir**
 1. Jalankan aplikasi
 2. Tekan Get Started / Mulai
@@ -49,7 +50,6 @@ Antarmuka sederhana dan mudah digunakan
 **🔐 Hak Akses Pengguna**
 1. Kasir: input transaksi saja (langsung masuk)
 2. Admin / Pemilik: akses penuh untuk produk dan laporan
-3. Role pengguna diatur melalui sistem role di Firebase Firestore dan aplikasi
 
 ## Getting Started
 
