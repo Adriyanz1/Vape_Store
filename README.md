@@ -20,10 +20,10 @@ Firebase Authentication (hanya untuk Admin)
 Firebase Firestore Database
 
 **Build APK**
-Pastikan Flutter SDK sudah terinstal.
-Clone repository:
-"git clone https://github.com/username/vape-store.git"
-Masuk ke direktori project:
+1. Pastikan Flutter SDK sudah terinstal.
+2. Clone repository:
+ "git clone https://github.com/username/vape-store.git"
+3. Masuk ke direktori project:
 "cd vape-store"
 Install dependency:
 "flutter pub get"
