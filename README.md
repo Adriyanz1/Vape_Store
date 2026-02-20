@@ -2,8 +2,8 @@
 
 Vape Store adalah aplikasi kasir berbasis Flutter yang digunakan untuk mencatat transaksi pembelian di toko vape.
 Aplikasi ini mendukung dua jenis pengguna dengan hak akses berbeda:
-Kasir: langsung masuk untuk mencatat pembelian.
-Admin / Pemilik: login untuk mengelola produk dan melihat laporan.
+- Kasir: langsung masuk untuk mencatat pembelian.
+- Admin / Pemilik: login untuk mengelola produk dan melihat laporan.
 
 **Fitur**
 Login pengguna hanya untuk Admin / Pemilik
