@@ -21,7 +21,7 @@ Antarmuka sederhana dan mudah digunakan
 **Build APK**
 1. Pastikan Flutter SDK sudah terinstal.
 2. Clone repository:
- "git clone https://github.com/username/vape-store.git"
+ "git clone https://github.com/Adriyanz1/Vape_Store"
 3. Masuk ke direktori project:
 "cd vape-store"
 4. Install dependency:
